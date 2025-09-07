@@ -1,0 +1,45 @@
+{
+  "name": "nexi-landing-page",
+  "description": "This project is a dynamic and interactive web experience featuring a futuristic 3D orb. It is designed to be a compelling landing page element for an AI assistant, with animations and color changes that react to user interaction.",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "homepage": "https://github.com/owen-6936/nexi-landing-page/#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/owen-6936/nexi-landing-page.git"
+  },
+  "bugs": {
+    "url": "https://github.com/owen-6936/nexi-landing-page/issues"
+  },
+  "author": "Owen Erhabor <erhaborowen3a@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "test": "echo \"No tests specified\" && exit 0",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "@vitejs/plugin-react-swc": "^4.0.0",
+    "eslint": "^9.35.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.3.0",
+    "prettier": "^3.6.2",
+    "typescript": "~5.8.3",
+    "typescript-eslint": "^8.39.1",
+    "vite": "^7.1.2"
+  }
+}
