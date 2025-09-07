@@ -4,25 +4,25 @@ This project is a dynamic and interactive web experience featuring a futuristic 
 
 ## Features
 
-* **Interactive 3D Orb:** A custom-built 3D orb with a shader that creates a subtle ripple and a unified glowing effect.
+- **Interactive 3D Orb:** A custom-built 3D orb with a shader that creates a subtle ripple and a unified glowing effect.
 
-* **Organic Movement:** The orb drifts and sways in a complex, non-repeating path, making its movement feel natural and alive.
+- **Organic Movement:** The orb drifts and sways in a complex, non-repeating path, making its movement feel natural and alive.
 
-* **Dynamic State:** The orb's glow color and pulsing animation change on hover, signaling that it is actively listening.
+- **Dynamic State:** The orb's glow color and pulsing animation change on hover, signaling that it is actively listening.
 
-* **Animated Starfield:** A subtle, animated background of floating particles adds a sense of depth and motion to the scene.
+- **Animated Starfield:** A subtle, animated background of floating particles adds a sense of depth and motion to the scene.
 
-* **Responsive Design:** The layout is fully responsive and optimized for both desktop and mobile screens.
+- **Responsive Design:** The layout is fully responsive and optimized for both desktop and mobile screens.
 
 ## Technologies
 
-* React (Vite)
+- React (Vite)
 
-* CSS3 (T
+- CSS3 (T
 
-* TypeScript
+- TypeScript
 
-* Three.js
+- Three.js
 
 ## Getting Started
 
@@ -51,7 +51,7 @@ npm run dev
 ```
 
 5. **Open your browser:**
-Visit `http://localhost:3000` to see the project in action. (Powered by the Tailwind CSS framework)
+   Visit `http://localhost:3000` to see the project in action. (Powered by the Tailwind CSS framework)
 
 6. **Build for production:**
 
@@ -65,6 +65,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-* [Three.js](https://threejs.org/) for the 3D graphics library.
-* [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework.
-* [Gemini Design](https://www.gemini.com/) for the inspiration behind the AI assistant concept.
+- [Three.js](https://threejs.org/) for the 3D graphics library.
+- [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework.
+- [Gemini Design](https://www.gemini.com/) for the inspiration behind the AI assistant concept.
