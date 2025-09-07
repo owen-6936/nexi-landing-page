@@ -18,7 +18,7 @@ This project is a dynamic and interactive web experience featuring a futuristic 
 
 - React (Vite)
 
-- CSS3 (T
+- CSS3 (Tailwind CSS)
 
 - TypeScript
 
