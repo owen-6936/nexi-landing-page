@@ -17,7 +17,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const { pull_request } = context.payload;
-            await github.pulls.merge({
+            await github.rest.pulls.merge({
               ...context.repo,
               pull_number: pull_request.number,
               merge_method: 'squash'
