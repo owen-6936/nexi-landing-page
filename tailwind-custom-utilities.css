@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+@utility font-inter {
+  font-family: 'Inter', sans-serif;
+}
+
+@utility border-border {
+  border-color: hsl(var(--border));
+}
+
+@utility bg-background {
+  background-color: hsl(var(--background));
+}
+
+@utility text-foreground {
+  color: hsl(var(--foreground));
+}
